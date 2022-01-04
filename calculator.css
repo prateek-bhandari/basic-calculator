@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    text-align: center;
+    color: sandybrown;
+    margin: 20px 0px;
+}
+.box{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.container{
+    border: 2px solid sandybrown;
+    padding: 20px;
+    border-radius: 20px;
+    width: 25vw;
+    margin: auto;
+    background-color:teal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container input{
+    font-size: 28px;
+    height: 50px;
+    margin: auto;
+    width: 23vw;
+    margin-bottom: 18px;
+    border-radius: 10px;
+    border: 5px solid sandybrown;
+}
+.container button{
+    height:7vh;
+    width: 5vw;
+    background-color: sandybrown;
+    border-radius: 17px;
+}
+table td{
+    padding:5px;
+}
